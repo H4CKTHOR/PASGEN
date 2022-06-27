@@ -7,6 +7,8 @@
 
 Usage:
 
+cd PASGEN
+
 python3 PASGEN.py
 
 ########################################

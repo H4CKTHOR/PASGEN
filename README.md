@@ -7,9 +7,9 @@
 
 Usage:
 
-cd PASGEN
-
-python3 PASGEN.py
+       1.cd PASGEN
+       
+       2.python3 PASGEN.py
 
 #########################################
 
@@ -22,8 +22,8 @@ Properties:
 #########################################
 TESTED:
 
-       1.Termux
-       
-       2.Kali Linux
+Kali Linux
+
+Termux
 
 ##########################################
